@@ -6,6 +6,6 @@
 - - 📫 meu email é eric.cabral@escola.pr.gov.br
 
 
-ericyuricabaral/ericyuricabaral is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ericyuricabral/ericyuricabral is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
